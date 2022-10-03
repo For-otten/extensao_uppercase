@@ -1,0 +1,9 @@
+{
+    "name": "All stronger",
+    "version": "1.0",
+    "description": "Transforma qualquer texto em caixa alta",
+    "browser_action": {
+        "default_popup": "index.html"
+    },
+    "manifest_version": 2
+}
