@@ -1,6 +1,8 @@
 
 #  Extensão web simples
 
+ATENÇÃO: A VERSÃO FINAL SERÁ UPADA NO CHROME WEB STORE PARA UTILIZAÇÃO!
+
 Transforme todos seus textos a qualquer hora em UPPERCASE! Pra você spammar copypasta ou gritar no twitter.
 
 Extensão feita com intuito em aprendizado, todos os créditos destinados ao canal *Programador BR*!
