@@ -1,7 +1,10 @@
 
 #  Extensão web simples
 
-ATENÇÃO: A VERSÃO FINAL SERÁ UPADA NO CHROME WEB STORE PARA UTILIZAÇÃO!
+ATENÇÃO: Já disponivel na chrome store para download :) 
+
+link:
+https://chrome.google.com/webstore/detail/upper-text/meelgfdngdjhigfhkdaknhmoljcmdcbd?hl=pt-br
 
 Transforme todos seus textos a qualquer hora em UPPERCASE! Pra você spammar copypasta ou gritar no twitter.
 
