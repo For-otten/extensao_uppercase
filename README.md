@@ -1,7 +1,7 @@
 
 #  Extensão web simples
 
-ATENÇÃO: Já disponivel na chrome store para download :) 
+ATENÇÃO: Já disponivel na Chrome Store para download :) 
 
 link:
 https://chrome.google.com/webstore/detail/upper-text/meelgfdngdjhigfhkdaknhmoljcmdcbd?hl=pt-br
