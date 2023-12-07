@@ -6,9 +6,9 @@ ATENÇÃO: Já disponivel na Chrome Store para download :)
 link:
 https://chrome.google.com/webstore/detail/upper-text/meelgfdngdjhigfhkdaknhmoljcmdcbd?hl=pt-br
 
-Transforme todos seus textos a qualquer hora em UPPERCASE! Pra você spammar copypasta ou gritar no twitter.
+Transforme todos seus textos a qualquer hora com UPPERTEXT!
 
-Extensão feita com intuito em aprendizado, todos os créditos destinados ao canal *Programador BR*!
+Extensão feita com intuito em aprendizado!
 
 ## Demonstração
 
